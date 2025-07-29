@@ -10,3 +10,8 @@ cd build
 cmake ..
 cmake --build .
 ```
+
+## Reference
+- [Tutorial: Configuring the right bus layouts for your plugins](https://juce.com/tutorials/tutorial_audio_bus_layouts/)
+
+- [Tutorial: Plugin examples](https://juce.com/tutorials/tutorial_plugin_examples/)
